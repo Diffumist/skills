@@ -1,0 +1,7 @@
+interface:
+  display_name: "Go Optimization"
+  short_description: "Diagnose and optimize Go performance"
+  default_prompt: "Use $go-optimization-skill to diagnose a Go performance issue, propose the smallest measured fix, and define validation commands."
+
+policy:
+  allow_implicit_invocation: true
